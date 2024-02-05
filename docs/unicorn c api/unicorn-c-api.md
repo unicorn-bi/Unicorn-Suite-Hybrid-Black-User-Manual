@@ -4,6 +4,9 @@ Unicorn brain interfaces from C/C++ applications. The Unicorn C API allows users
 Unicorn Brain Interfaces easily without having to take care of low-level data acquisition issues. The raw 
 binary data stream is converted into numerical values such that the user receives data ready to analyze.
 
+[Requirements](#Requirements)<br/>
+[Files on your computer](#Files-on-your-computer)<br/>
+[Using the Unicorn C Api](#Using-the-Unicorn-C-Api)<br/>
 ## Requirements
 <div align="left">
 
