@@ -41,7 +41,9 @@ Suite\Unicorn CAPI\Hybrid Black\Lib) to the “Additional Include Directories”
 7. Open the Linker Settings (Configuration Properties → C/C++ → General).
 8. Add the path of the Unicorn C API (by default C:\Users\<username>\Documents\gtec\Unicorn Suite\Hybrid Black\Unicorn CAPI \Lib) to the “Additional Library Directories”.
 <br/><br/>
-![image info](./capi4.png)
+<p align="center">
+<img src="./capi4.png" alt="drawing" width="350"/><br/>
+</p>
 
 9. Add the header file and the library file of the Unicorn C API as follows:
 
