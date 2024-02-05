@@ -96,4 +96,6 @@ possible to interact with the Unicorn Brain Interface anymore. The Unicorn Brain
 be opened again for interaction.
 
 ## Unicorn C API Video Tutorial
-[![Unicorn Hybrid Black Tutorial: Dev Tools - C API](https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg)](https://youtu.be/ylbpKTY1Awg "Unicorn Hybrid Black Tutorial: Dev Tools - C API")
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylbpKTY1Awg?si=IqjOBw_HXWK-YHgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
