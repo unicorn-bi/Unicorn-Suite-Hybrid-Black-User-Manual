@@ -26,9 +26,13 @@ your project.
 1. Open Visual Studio 2022.
 2.  Create a new C++ Win32 Console application (File → New → Project → Visual C++).
 <br/><br/>
-![image info](./capi1.png)
+<p align="center">
+<img src="./capi1.png" alt="drawing" width="500"/><br/>
+</p>
 <br/><br/>
-![image info](./capi2.png)
+<p align="center">
+<img src="./capi2.png" alt="drawing" width="500"/><br/>
+</p>
 
 3. Ensure that 64-bit is selected as target platform for the project.
 4. Open the project properties dialog (Project → Properties).
@@ -36,13 +40,15 @@ your project.
 6. Add the path of the Unicorn C API (by default C:\Users\<username>\Documents\gtec\Unicorn 
 Suite\Unicorn CAPI\Hybrid Black\Lib) to the “Additional Include Directories”.
 <br/><br/>
-![image info](./capi3.png)
+<p align="center">
+<img src="./capi3.png" alt="drawing" width="500"/><br/>
+</p>
 
 7. Open the Linker Settings (Configuration Properties → C/C++ → General).
 8. Add the path of the Unicorn C API (by default C:\Users\<username>\Documents\gtec\Unicorn Suite\Hybrid Black\Unicorn CAPI \Lib) to the “Additional Library Directories”.
 <br/><br/>
 <p align="center">
-<img src="./capi4.png" alt="drawing" width="350"/><br/>
+<img src="./capi4.png" alt="drawing" width="500"/><br/>
 </p>
 
 9. Add the header file and the library file of the Unicorn C API as follows:
