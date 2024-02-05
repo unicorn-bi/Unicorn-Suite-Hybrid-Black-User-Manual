@@ -104,11 +104,12 @@ possible to interact with the Unicorn Brain Interface anymore. The Unicorn Brain
 be opened again for interaction.
 
 ## Unicorn C API Video Tutorial
-<center>
+<div align="center">
+
 
 [![Unicorn Hybrid Black Tutorial: Dev Tools - C API](https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg)](https://youtu.be/ylbpKTY1Awg "Unicorn Hybrid Black Tutorial: Dev Tools - C API")
 
-</center>
+</div>
 
 <div align="center">
 
