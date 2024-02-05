@@ -7,6 +7,9 @@ binary data stream is converted into numerical values such that the user receive
 [Requirements](#Requirements)<br/>
 [Files on your computer](#Files-on-your-computer)<br/>
 [Using the Unicorn C Api](#Using-the-Unicorn-C-Api)<br/>
+[Setting up a project using Visual Studio 2022](#Setting-up-a-project-using-Visual-Studio-2022)</br>
+[Command Order](#Command-Order)</br>
+[Unicorn C API Video Tutorial](#Unicorn-C-API-Video-Tutorial)</br>
 ## Requirements
 <div align="left">
 
