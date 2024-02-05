@@ -72,19 +72,24 @@ To perform a data acquisition using the Unicorn C API, a defined command executi
 </p>
 1. Before connecting to a Unicorn Brain Interface, it is possible to check the operating environment 
 of Unicorn Brain Interfaces and to discover available Unicorn Brain Interfaces.
+
 2. A connection has to be established to communicate with the Unicorn brain interface. This can be 
 performed by calling Open Device. If a Unicorn Brain Interface handle unequal to Null is received,
 the connection attempt was executed successfully. After connecting to a Unicorn Brain Interface, it 
 is possible to interact with the Unicorn Brain Interface and call all functions that require a 
 UNICORN_HANDLE. For example, it is possible to read the current configuration of the Unicorn 
 Brain Interface, set a new configuration or start data acquisition.
+
 3. To start data acquisition, Start Acquisition must be called. After calling Start Acquisition, the 
 Unicorn Brain Interface is set into acquisition mode and is continuously sending data.
+
 4. Therefore, it is required to read the incoming data stream continuously by calling Get Data within 
 an acquisition loop. Other API calls are not allowed while data acquisition is running.
+
 5. To stop data acquisition, Stop Acquisition must be called. The Unicorn Brain Interface will terminate 
 the data stream. The Unicorn Brain Interface is still connected. It is possible to interact with the 
 Unicorn Brain Interface and call all functions that require a UNICORN_HANDLE.
+
 6. To disconnect from a Unicorn Brain Interface, Close Device must be called. Afterwards, it is not 
 possible to interact with the Unicorn Brain Interface anymore. The Unicorn Brain Interface has to 
 be opened again for interaction.
