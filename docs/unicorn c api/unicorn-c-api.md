@@ -109,3 +109,11 @@ be opened again for interaction.
 [![Unicorn Hybrid Black Tutorial: Dev Tools - C API](https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg)](https://youtu.be/ylbpKTY1Awg "Unicorn Hybrid Black Tutorial: Dev Tools - C API")
 
 </center>
+
+<div align="center">
+
+COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
+:--- | :---: | ---:
+</br></br>left | center | </br></br>right
+
+</div>
