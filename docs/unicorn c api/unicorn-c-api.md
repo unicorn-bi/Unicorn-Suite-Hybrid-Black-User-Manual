@@ -70,6 +70,7 @@ To perform a data acquisition using the Unicorn C API, a defined command executi
 <p align="center">
 <img src="./capi5.png" alt="drawing" width="350"/><br/>
 </p>
+
 1. Before connecting to a Unicorn Brain Interface, it is possible to check the operating environment 
 of Unicorn Brain Interfaces and to discover available Unicorn Brain Interfaces.
 
