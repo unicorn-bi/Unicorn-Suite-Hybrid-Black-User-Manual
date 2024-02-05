@@ -5,7 +5,7 @@ Unicorn Brain Interfaces easily without having to take care of low-level data ac
 binary data stream is converted into numerical values such that the user receives data ready to analyze.
 
 ## Requirements
-<div align="center">
+<div align="left">
 
 | Software        | Properties          |
 | :--------------- | :------------------- |
@@ -16,7 +16,7 @@ language |
 
 ## Files on your computer
 By default, the Unicorn C API library is installed into the Documents folder.
-<div align="center">
+<div align="left">
 
 | Path        | Description          |
 | :--------------- | :------------------- |
