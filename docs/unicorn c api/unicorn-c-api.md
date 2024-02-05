@@ -94,3 +94,11 @@ Unicorn Brain Interface and call all functions that require a UNICORN_HANDLE.
 6. To disconnect from a Unicorn Brain Interface, Close Device must be called. Afterwards, it is not 
 possible to interact with the Unicorn Brain Interface anymore. The Unicorn Brain Interface has to 
 be opened again for interaction.
+
+### Unicorn Hybrid Black Tutorial: Dev Tools - C API
+[![Unicorn Hybrid Black Tutorial: Dev Tools - C API](https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg)](https://youtu.be/ylbpKTY1Awg "Unicorn Hybrid Black Tutorial: Dev Tools - C API")
+
+<a href="https://youtu.be/ylbpKTY1Awg?si=IqjOBw_HXWK-YHgE" target="_blank"><img src="https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylbpKTY1Awg?si=pHpIxmiz_w8-INm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
