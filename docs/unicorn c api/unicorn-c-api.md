@@ -5,16 +5,24 @@ Unicorn Brain Interfaces easily without having to take care of low-level data ac
 binary data stream is converted into numerical values such that the user receives data ready to analyze.
 
 ## Requirements
+<center>
+
 | Software        | Properties          |
 | --------------- | ------------------- |
 | Visual Studio   | Microsoft Visual Studio 2015 <br/> Desktop development for the C++ programming 
 language |
 
+</center>
+
 ## Files on your computer
 By default, the Unicorn C API library is installed into the Documents folder.
+<center>
+
 | Path        | Description          |
 | --------------- | ------------------- |
 | C:\Users\<username>\Documents\gtec\Unicorn Suite\Hybrid Black\Unicorn CAPI | Standard installation folder for the Unicorn C API library |
+
+</center>
 
 ## Using the Unicorn C Api
 There are several possibilities to refer to the Unicorn C API files from your individual project
@@ -96,6 +104,8 @@ possible to interact with the Unicorn Brain Interface anymore. The Unicorn Brain
 be opened again for interaction.
 
 ## Unicorn C API Video Tutorial
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ylbpKTY1Awg?si=IqjOBw_HXWK-YHgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
+<center>
+
+[![Unicorn Hybrid Black Tutorial: Dev Tools - C API](https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg)](https://youtu.be/ylbpKTY1Awg "Unicorn Hybrid Black Tutorial: Dev Tools - C API")
+
+</center>
