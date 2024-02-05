@@ -8,7 +8,7 @@ binary data stream is converted into numerical values such that the user receive
 <div align="center">
 
 | Software        | Properties          |
-| --------------- | ------------------- |
+| :--------------- | :------------------- |
 | Visual Studio   | Microsoft Visual Studio 2015 <br/> Desktop development for the C++ programming 
 language |
 
@@ -19,7 +19,7 @@ By default, the Unicorn C API library is installed into the Documents folder.
 <div align="center">
 
 | Path        | Description          |
-| --------------- | ------------------- |
+| :--------------- | :------------------- |
 | C:\Users\<username>\Documents\gtec\Unicorn Suite\Hybrid Black\Unicorn CAPI | Standard installation folder for the Unicorn C API library |
 
 </div>
