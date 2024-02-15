@@ -10,6 +10,7 @@ binary data stream is converted into numerical values such that the user receive
 [Setting up a project using Visual Studio 2022](#Setting-up-a-project-using-Visual-Studio-2022)</br>
 [Command Order](#Command-Order)</br>
 [Unicorn C API Video Tutorial](#Unicorn-C-API-Video-Tutorial)</br>
+[C API Reference](./unicorn-c-api-reference.md)</br>
 ## Requirements
 <div align="left">
 
@@ -111,7 +112,6 @@ be opened again for interaction.
 
 ## Unicorn C API Video Tutorial
 <div align="center">
-
 
 [![Unicorn Hybrid Black Tutorial: Dev Tools - C API](https://img.youtube.com/vi/ylbpKTY1Awg/0.jpg)](https://youtu.be/ylbpKTY1Awg "Unicorn Hybrid Black Tutorial: Dev Tools - C API")
 
