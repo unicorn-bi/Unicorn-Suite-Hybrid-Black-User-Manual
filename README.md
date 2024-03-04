@@ -1,5 +1,14 @@
 # Unicorn Suite Hybrid Black User Manual
+This repository is the User Manual for Unicorn Brain Interface Hybrid Black.
 
+Copyright © 2021 g.tec neurotechnology GmbH Austria
+
+For more information, visit: [Unicorn Brain Interface webpage](www.unicorn-bi.com)
+
+Contact email: hello@unicorn-bi.com
+
+# Glossary
+[Glossary](Glossary/glossaryInformation.md)
 ## Programming Interfaces
 
 [Unicorn APIs](https://github.com/unicorn-bi/Unicorn-Hybrid-Black-Windows-APIs)<br/>
