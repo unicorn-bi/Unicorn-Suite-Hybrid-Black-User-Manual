@@ -169,39 +169,39 @@ For reassembly, just bring the Unicorn Brain Interface in the vicinity of the do
         <th><span style="font-size: larger;">Description</span></th>
     </tr>
     <tr>
-        <td><img src="./img/Icon1.png" alt="drawing" width="50"/></td>
+        <td><img src="./img/icon1.png" alt="drawing" width="50"/></td>
         <td>CE mark</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon2.png" alt="drawing" width="50"/></td>
+        <td><img src="./img/icon2.png" alt="drawing" width="50"/></td>
         <td>Do not dispose with domestic waste. Dispose of it via the separate collection system for electrical and electronic equipment.</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon3.png" alt="drawing" width="50"/></td>
+        <td><img src="./img/icon3.png" alt="drawing" width="50"/></td>
         <td>Avoid electrostatic discharge</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon4.png" alt="drawing" width="50"/></td>
+        <td><img src="./img/icon4.png" alt="drawing" width="50"/></td>
         <td>Follow instructions for use</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon5.png" alt="drawing" width="50"/></td>
+        <td><img src="./img/icon5.png" alt="drawing" width="50"/></td>
         <td>Manufacturer</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon6.png" alt="drawing" width="50"/></td>
+        <td><img src="./img/icon6.png" alt="drawing" width="50"/></td>
         <td>S1: permanent operation</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon7.png" alt="drawing" width="200"/></td>
+        <td><img src="./img/icon7.png" alt="drawing" width="200"/></td>
         <td>Serial number in the format: UN-YearOfProduction.Month.Number</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon8.png" alt="drawing" width="200"/></td>
+        <td><img src="./img/icon8.png" alt="drawing" width="200"/></td>
         <td>Contains FCC ID: QOQWT12</td>
     </tr>
     <tr>
-        <td><img src="./img/Icon9.png" alt="drawing" width="250"/></td>
+        <td><img src="./img/icon9.png" alt="drawing" width="250"/></td>
         <td>Contains IC: 5123A-BGTWT12A</td>
     </tr>
 </table>
