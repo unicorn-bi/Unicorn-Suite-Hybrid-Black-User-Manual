@@ -1,3 +1,50 @@
+# Unicorn Hybrid Black
+
+<p align="center">
+<table>
+    <tr>
+        <th><span style="font-size: larger;">Bundle components</span></th>
+        <th><span style="font-size: larger;">Quantity</span></th>
+    </tr>
+    <tr>
+        <td>Unicorn Brain Interface Hybrid Black	</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Unicorn USB Charging Cable	</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Unicorn Hybrid EEG Electrodes	</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Unicorn Sticky Electrodes</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>Unicorn Cap Size M	</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Unicorn Bluetooth Dongle</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Unicorn Box	</td>
+        <td>1</td>
+    </tr>
+        <tr>
+        <td>Unicorn Suite Hybrid Black</td>
+        <td>1</td>
+    </tr>
+</table>
+</p>
+
+<p align="center">
+<img src="../img/unicorn.png" alt="drawing" width="500"/><br/>
+</p>
+
 ## Unicorn Brain Interface Hybrid Black
 <p align="center">
 <img src="../img/unicornImage2.png" alt="drawing" width="700"/><br/>
