@@ -1,5 +1,10 @@
 # Technical Specifications
-
+[Unicorn Brain Interface](#unicorn-brain-interface)<br/>
+[Unicorn Brain Interface settings](#unicorn-brain-interface-settings)<br/>
+    - [Analog-Digital-Converter (ADC)](#analog-digital-converter-adc)<br/>
+[Motion Tracking](#motion-tracking)<br/>
+[RF module](#rf-module)<Br/>
+    - [FCC RF Radiation Exposure statement](#fcc-rf-radiation-exposure-statement)<br/>
 ## Unicorn Brain Interface
 <p align="center">
 <table>

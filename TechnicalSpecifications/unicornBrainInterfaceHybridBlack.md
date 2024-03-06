@@ -1,4 +1,37 @@
 # Unicorn Hybrid Black
+[Unicorn Brain Interface Hybrid Black](#unicorn-brain-interface-hybrid-black)<br/>
+    - [Status LED](#status-led)<br/>
+    - [Push button](#push-button)<br/>
+    - [LED Bow](#led-bow)<br/>
+    - [Magnetic Docking Station](#magnetic-docking-station)<br/>
+    - [Symbols](#symbols)<br/>
+
+[Unicorn Hybrid EEG Electrodes](#unicorn-hybrid-eeg-electrodes)<br/>
+
+[Assembling / Disassembling](#assembling--disassembling)<br/>
+    - [Insert / Remove Unicorn Hybrid EEG Electrodes](#insert--remove-unicorn-hybrid-eeg-electrodes)<br/>
+    - [Connect / Disconnect Unicorn Hybrid EEG Electrodes](#connect--disconnect-unicorn-hybrid-eeg-electrodes)<br/>
+    - [Attach / Detach Unicorn Sticky Electrodes](#attach--detach-unicorn-sticky-electrodes)<br/>
+    - [Attach / Detach Unicorn Brain Interface on the cap](#attach--detach-unicorn-brain-interface-on-the-cap)<br/>
+
+[Charging the Unicorn Brain Interface](#charging-the-unicorn-brain-interface)<br/>
+
+[Safety Operation](#safety-operation)<br/>
+
+[Setup the Unicorn Brain Interface to record data](#setup-the-unicorn-brain-interface-to-record-data)<br/>
+    - [Put the Unicorn Brain Interface on the subject's head](#put-the-unicorn-brain-interface-on-the-subjects-head)<br/>
+    - [Prepare the Unicorn Hybrid EEG electrodes](#prepare-the-unicorn-hybrid-eeg-electrodes)<br/>
+    - [Avoid electrode and cable movements](#avoid-electrode-and-cable-movements)<br/>
+    - [Avoid Electrostatic Charges](#avoid-electrostatic-charges)<br/>
+    - [Grounding](#grounding)<br/>
+    - [Switch off](#switch-off)<br/>
+    - [Cleaning](#cleaning)<br/>
+    - [Packing and storage](#packing-and-storage)<br/>
+
+[Cleaning the Unicorn Brain Interface](#cleaning-the-unicorn-brain-interface)<br/>
+    - [Cleaning the Unicorn Brain Interface and Unicorn Hybrid EEG electrode cables](#cleaning-the-unicorn-brain-interface-and-unicorn-hybrid-eeg-electrode-cables)<br/>
+    - [Cleaning the Unicorn cap and Unicorn Hybrid EEG electrodes](#cleaning-the-unicorn-cap-and-unicorn-hybrid-eeg-electrodes)<br/>
+    - [Drying Unicorn caps and Unicorn Hybrid EEG electrodes](#drying-unicorn-caps-and-unicorn-hybrid-eeg-electrodes)<br/>
 
 <p align="center">
 <table>

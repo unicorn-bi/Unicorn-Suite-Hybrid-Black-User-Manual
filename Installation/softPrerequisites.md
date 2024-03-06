@@ -1,4 +1,9 @@
 # Soft Prerequisites
+[Bluetooth Confuguration](#bluetooth-configuration)<br/>
+    - [Switch Bluetooth Dongle](#switch-bluetooth-dongle)<br/>
+    - [Disable Bluetooth Power Adaptor](#disable-bluetooth-power-saving-mode)<br/>
+[Optimize the Power Plan](#optimize-the-power-plan)
+
 
 ## Bluetooth Configuration
 Most computers are delivered with an internal Bluetooth adapter. The Unicorn Brain Interface is tested and delivered with a recommended Unicorn Bluetooth adapter. To avoid data loss and unexpected behavior, the Unicorn Brain Interface should be used with the Unicorn Bluetooth dongle. Insert the Unicorn Bluetooth dongle into an USB slot and open the Unicorn Suite. Open the “My Unicorn” tab.

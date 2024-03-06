@@ -1,4 +1,9 @@
 # General notes:
+[Classification](#classification)<br/>
+[Transportation and storage conditions](#transportation-and-storage-conditions)<br/>
+[Location details](#location-details)<br/>
+[Waste disposal details](#waste-disposal-details)<br/>
+[Warranty](#warranty)<br/>
 
 ## Classification
 - Protection against mechanical distortion and liquids: IP40

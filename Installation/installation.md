@@ -1,6 +1,10 @@
 # Installation
 The following section describes how to install Unicorn Suite.
 
+[Install Unicorn Suite Hybrid Black](#install-unicorn-suite-hybrid-black) <br/>
+
+[Uninstall Unicorn Suite Hybrid Black](#uninstall-unicorn-suite-hybrid-black)
+
 ## Install Unicorn Suite Hybrid Black
 Perform the following steps for installation:
 1. If there is an old version of the Unicorn Suite package on the computer, please uninstall it.
