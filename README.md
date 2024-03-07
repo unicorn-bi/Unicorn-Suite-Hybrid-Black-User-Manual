@@ -444,11 +444,7 @@ The declaration of conformity is available on request.
 
 ### Unicorn Hybrid Black Tutorial: Hardware Setup and Handling
 
-<div align="center">
-
 [![Unicorn Hybrid Black Tutorial: Hardware Setup and Handling](https://img.youtube.com/vi/UVVUJTwvGnw/0.jpg)](https://youtu.be/UVVUJTwvGnw "Unicorn Hybrid Black Tutorial: Hardware Setup and Handling")
-
-</div>
 
 <br/>
 Contact email: hello@unicorn-bi.com<br>
