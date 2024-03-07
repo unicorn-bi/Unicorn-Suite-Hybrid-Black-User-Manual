@@ -38,7 +38,7 @@
 ### Applications
 
 [Unicorn Bandpower](https://github.com/unicorn-bi/Unicorn-Bandpower-Hybrid-Black)<br/>
-[Unicorn Blondy Check](https://github.com/unicorn-bi/Unicorn-Hybrid-Black-Windows-APIs)<br/>
+[Unicorn Blondy Check](https://github.com/unicorn-bi/Unicorn-Blondy-Check-Hybrid-Black)<br/>
 [Unicorn Speller](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
 
 ## Glossary
