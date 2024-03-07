@@ -34,11 +34,9 @@
 &nbsp;&nbsp;&nbsp;[Drying Unicorn caps and Unicorn Hybrid EEG electrodes](#drying-unicorn-caps-and-unicorn-hybrid-eeg-electrodes)<br/>
 
 [Unicorn Brain Interface Packaging](#unicorn-brain-interface-packaging)
-<br/>
-<br/>
 
 ## Unicorn Brain Interface Hybrid Black
-
+<br>
 <p align="center">
 <table>
     <tr>
@@ -79,11 +77,11 @@
     </tr>
 </table>
 </p>
-
+<br>
 <p align="center">
 <img src="img/unicorn.png" alt="drawing" width="500"/><br/>
 </p>
-
+<br>
 <p align="center">
 <img src="img/unicornImage2.png" alt="drawing" width="700"/><br/>
 </p>
