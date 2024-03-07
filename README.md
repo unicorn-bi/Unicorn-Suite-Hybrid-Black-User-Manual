@@ -29,6 +29,8 @@
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
 
+[Unicorn Hybrid Black Video Tutorial](#Unicorn-Hybrid-Black-Tutorial:-Hardware-Setup-and-Handling)
+
 ## Software
 [Unicorn Suite](UnicornSuite.md)<br/>
 
@@ -439,6 +441,14 @@ The EMC declaration is available on request.
 
 ### Declaration of Conformity
 The declaration of conformity is available on request.
+
+### Unicorn Hybrid Black Tutorial: Hardware Setup and Handling
+
+<div align="center">
+
+[![Unicorn Hybrid Black Tutorial: Hardware Setup and Handling](https://img.youtube.com/vi/UVVUJTwvGnw/0.jpg)](https://youtu.be/UVVUJTwvGnw "Unicorn Hybrid Black Tutorial: Hardware Setup and Handling")
+
+</div>
 
 <br/>
 Contact email: hello@unicorn-bi.com<br>
