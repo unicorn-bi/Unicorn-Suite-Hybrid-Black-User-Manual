@@ -18,7 +18,7 @@
 [Technical Specifications](TechnicalSpecifications.md)<br/>
 [Electromagnetic compatibility EMC](#electromagnetic-compatibility-emc)<br/>
 [Declaration of conformity](#declaration-of-conformity)<br/>
-[General notes](GeneralNotes.md)<br/>
+[General notes](TechnicalSpecifications.md)<br/>
 
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
