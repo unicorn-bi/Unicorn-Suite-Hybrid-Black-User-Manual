@@ -9,16 +9,21 @@
 &nbsp;&nbsp;&nbsp;[Intended use](#intended-use)<br/>
 &nbsp;&nbsp;&nbsp;[Conditions of use](#conditions-of-use)<br/>
 
-[Software System Requirements](/Installation/softwareRequirements.md)<br/>
-[Installation](/Installation/installation.md)<br/>
-[Software Prerequisites](/Installation/softPrerequisites.md)<br/>
-
 ### Amplifier
 
-[Technical Specifications](TechnicalSpecifications.md)<br/>
-[Electromagnetic compatibility EMC](#electromagnetic-compatibility-emc)<br/>
-[Declaration of conformity](#declaration-of-conformity)<br/>
-[General notes](TechnicalSpecifications.md)<br/>
+#### Technical Specifications
+[Unicorn Brain Interface](#unicorn-brain-interface)<br/>
+[Unicorn Brain Interface settings](#unicorn-brain-interface-settings)<br/>
+[Analog-Digital-Converter (ADC)](#analog-digital-converter-adc)<br/>
+[Motion Tracking](#motion-tracking)<br/>
+[RF module](#rf-module)<Br/>
+[FCC RF Radiation Exposure statement](#fcc-rf-radiation-exposure-statement)<br/>
+#### General notes
+[Classification](#classification)<br/>
+[Transportation and storage conditions](#transportation-and-storage-conditions)<br/>
+[Location details](#location-details)<br/>
+[Waste disposal details](#waste-disposal-details)<br/>
+[Warranty](#warranty)<br/>
 
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
