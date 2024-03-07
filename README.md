@@ -39,5 +39,5 @@ The declaration of conformity is available on request.
 
 <br/>
 Contact email: hello@unicorn-bi.com<br>
-For more information, visit: [www.gtec.at](https://www.gtec.com)<br>
+For more information, visit: www.gtec.at<br>
 Copyright © 2024 g.tec neurotechnology GmbH Austria
