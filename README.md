@@ -29,7 +29,7 @@
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
 
-[Unicorn Hybrid Black Video Tutorial](#Unicorn-Hybrid-Black-Tutorial:-Hardware-Setup-and-Handling)
+[Unicorn Hybrid Black Video Tutorial](#unicorn-hybrid-black-tutorial-hardware-setup-and-handling)
 
 ## Software
 [Unicorn Suite](UnicornSuite.md)<br/>
