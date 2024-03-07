@@ -38,8 +38,8 @@ The Unicorn Naked BCI allows you to build your own EEG head-set and BCI applicat
 </table>
 </p>
 <p align="center">
-<img src="../img/img11.png" alt="drawing" width="700"/><br/>
+<img src="img/img11.png" alt="drawing" width="700"/><br/>
 </p>
 <p align="center">
-<img src="../img/img12.png" alt="drawing" width="700"/><br/>
+<img src="img/img12.png" alt="drawing" width="700"/><br/>
 </p>
