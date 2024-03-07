@@ -9,15 +9,15 @@
 &nbsp;&nbsp;&nbsp;[Intended use](#intended-use)<br/>
 &nbsp;&nbsp;&nbsp;[Conditions of use](#conditions-of-use)<br/>
 
-### Amplifier
+## Hardware
 
-#### Technical Specifications
+### Technical Specifications
 [Unicorn Brain Interface](#unicorn-brain-interface)<br/>
 &nbsp;&nbsp;&nbsp;[Analog-Digital-Converter (ADC)](#analog-digital-converter-adc)<br/>
 &nbsp;&nbsp;&nbsp;[Motion Tracking](#motion-tracking)<br/>
 &nbsp;&nbsp;&nbsp;[RF module](#rf-module)<Br/>
 &nbsp;&nbsp;&nbsp;[FCC RF Radiation Exposure statement](#fcc-rf-radiation-exposure-statement)<br/>
-#### General notes
+### General notes
 [Classification](#classification)<br/>
 [Transportation and storage conditions](#transportation-and-storage-conditions)<br/>
 [Location details](#location-details)<br/>
@@ -25,9 +25,12 @@
 [Warranty](#warranty)<br/>
 
 
-#### Devices
+### Devices
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
+
+## Software
+[Unicorn Suite](UnicornSuite.md)<br/>
 
 ### Programming Interfaces
 
