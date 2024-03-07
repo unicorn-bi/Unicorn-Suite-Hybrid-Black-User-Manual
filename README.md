@@ -13,11 +13,11 @@
 
 #### Technical Specifications
 [Unicorn Brain Interface](#unicorn-brain-interface)<br/>
-[Unicorn Brain Interface settings](#unicorn-brain-interface-settings)<br/>
-[Analog-Digital-Converter (ADC)](#analog-digital-converter-adc)<br/>
-[Motion Tracking](#motion-tracking)<br/>
-[RF module](#rf-module)<Br/>
-[FCC RF Radiation Exposure statement](#fcc-rf-radiation-exposure-statement)<br/>
+&nbsp;&nbsp;&nbsp;[Unicorn Brain Interface settings](#unicorn-brain-interface-settings)<br/>
+&nbsp;&nbsp;&nbsp;[Analog-Digital-Converter (ADC)](#analog-digital-converter-adc)<br/>
+&nbsp;&nbsp;&nbsp;[Motion Tracking](#motion-tracking)<br/>
+&nbsp;&nbsp;&nbsp;[RF module](#rf-module)<Br/>
+&nbsp;&nbsp;&nbsp;[FCC RF Radiation Exposure statement](#fcc-rf-radiation-exposure-statement)<br/>
 #### General notes
 [Classification](#classification)<br/>
 [Transportation and storage conditions](#transportation-and-storage-conditions)<br/>
