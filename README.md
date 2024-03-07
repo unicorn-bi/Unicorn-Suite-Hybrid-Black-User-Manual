@@ -10,9 +10,10 @@
 &nbsp;&nbsp;&nbsp;[Conditions of use](#conditions-of-use)<br/>
 
 [Technical Specifications](TechnicalSpecifications.md)<br/>
+[Unicorn Brain Interface Packaging](/Introduction/unicornBrainInterfacePackaging.md)<br/>
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
-[Unicorn Brain Interface Packaging](/Introduction/unicornBrainInterfacePackaging.md)<br/>
+
 
 [Electromagnetic compatibility EMC](#electromagnetic-compatibility-emc)<br/>
 [Declaration of conformity](#declaration-of-conformity)<br/>
