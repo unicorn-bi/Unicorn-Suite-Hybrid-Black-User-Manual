@@ -16,12 +16,12 @@
 ### Amplifier
 
 [Technical Specifications](TechnicalSpecifications.md)<br/>
-[Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
-[Unicorn Naked BCI](UnicornNaked.md)<br/>
-
 [Electromagnetic compatibility EMC](#electromagnetic-compatibility-emc)<br/>
 [Declaration of conformity](#declaration-of-conformity)<br/>
-[General notes](/Introduction/generalNotes.md)<br/>
+[General notes](GeneralNotes.md)<br/>
+
+[Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
+[Unicorn Naked BCI](UnicornNaked.md)<br/>
 
 ### Programming Interfaces
 
