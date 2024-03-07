@@ -36,10 +36,13 @@
 &nbsp;&nbsp;&nbsp;[Unicorn UDP](https://github.com/unicorn-bi/Unicorn-Network-Interfaces-Hybrid-Black/tree/main/UDP)<br/>
 
 ### Applications
-
+Unicorn Recorder<br>
 [Unicorn Bandpower](https://github.com/unicorn-bi/Unicorn-Bandpower-Hybrid-Black)<br/>
 [Unicorn Blondy Check](https://github.com/unicorn-bi/Unicorn-Blondy-Check-Hybrid-Black)<br/>
 [Unicorn Speller](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
+Unicorn Painting<br/>
+Brainbuddy<br/>
+Platformer<br/>
 
 ## Glossary
 
