@@ -1,4 +1,4 @@
-# Unicorn Nake BCI
+# Unicorn Naked BCI
 The Unicorn Naked BCI allows you to build your own EEG head-set and BCI applications with high-performance hardware and open-source tools within hours. The only difference from the Unicorn Hybrid Black is that the Unicorn Naked BCI comes without a casing.
 
 <p align="center">
