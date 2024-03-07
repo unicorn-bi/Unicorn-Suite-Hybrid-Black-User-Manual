@@ -36,7 +36,6 @@
 [Unicorn Brain Interface Packaging](#unicorn-brain-interface-packaging)
 
 ## Unicorn Brain Interface Hybrid Black
-<br>
 <p align="center">
 <table>
     <tr>
@@ -77,11 +76,11 @@
     </tr>
 </table>
 </p>
-<br>
+
 <p align="center">
 <img src="img/unicorn.png" alt="drawing" width="500"/><br/>
 </p>
-<br>
+
 <p align="center">
 <img src="img/unicornImage2.png" alt="drawing" width="700"/><br/>
 </p>
