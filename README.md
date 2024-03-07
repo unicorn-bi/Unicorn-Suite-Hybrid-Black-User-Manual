@@ -13,7 +13,6 @@
 
 #### Technical Specifications
 [Unicorn Brain Interface](#unicorn-brain-interface)<br/>
-&nbsp;&nbsp;&nbsp;[Unicorn Brain Interface settings](#unicorn-brain-interface-settings)<br/>
 &nbsp;&nbsp;&nbsp;[Analog-Digital-Converter (ADC)](#analog-digital-converter-adc)<br/>
 &nbsp;&nbsp;&nbsp;[Motion Tracking](#motion-tracking)<br/>
 &nbsp;&nbsp;&nbsp;[RF module](#rf-module)<Br/>
@@ -25,6 +24,8 @@
 [Waste disposal details](#waste-disposal-details)<br/>
 [Warranty](#warranty)<br/>
 
+
+#### Devices
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
 
@@ -281,11 +282,9 @@ Atmospheric pressure: 700 to 1060 hPa
 </table>
 </p>
 
-**Warning:**
-
+**Warning:**<br>
 Do not short circuit the battery. <br/> Do not expose cells or batteries to heat or fire.
 
-## Unicorn Brain Interface settings
 <p align="center">
 <table>
     <tr>
