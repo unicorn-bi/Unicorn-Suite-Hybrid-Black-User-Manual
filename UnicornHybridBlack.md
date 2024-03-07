@@ -1,37 +1,43 @@
 # Unicorn Hybrid Black
 [Unicorn Brain Interface Hybrid Black](#unicorn-brain-interface-hybrid-black)<br/>
-    - [Status LED](#status-led)<br/>
-    - [Push button](#push-button)<br/>
-    - [LED Bow](#led-bow)<br/>
-    - [Magnetic Docking Station](#magnetic-docking-station)<br/>
-    - [Symbols](#symbols)<br/>
+&nbsp;&nbsp;&nbsp;[Status LED](#status-led)<br/>
+&nbsp;&nbsp;&nbsp;[Push button](#push-button)<br/>
+&nbsp;&nbsp;&nbsp;[LED Bow](#led-bow)<br/>
+&nbsp;&nbsp;&nbsp;[Magnetic Docking Station](#magnetic-docking-station)<br/>
+&nbsp;&nbsp;&nbsp;[Symbols](#symbols)<br/>
 
 [Unicorn Hybrid EEG Electrodes](#unicorn-hybrid-eeg-electrodes)<br/>
 
 [Assembling / Disassembling](#assembling--disassembling)<br/>
-    - [Insert / Remove Unicorn Hybrid EEG Electrodes](#insert--remove-unicorn-hybrid-eeg-electrodes)<br/>
-    - [Connect / Disconnect Unicorn Hybrid EEG Electrodes](#connect--disconnect-unicorn-hybrid-eeg-electrodes)<br/>
-    - [Attach / Detach Unicorn Sticky Electrodes](#attach--detach-unicorn-sticky-electrodes)<br/>
-    - [Attach / Detach Unicorn Brain Interface on the cap](#attach--detach-unicorn-brain-interface-on-the-cap)<br/>
+&nbsp;&nbsp;&nbsp;[Insert / Remove Unicorn Hybrid EEG Electrodes](#insert--remove-unicorn-hybrid-eeg-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;[Connect / Disconnect Unicorn Hybrid EEG Electrodes](#connect--disconnect-unicorn-hybrid-eeg-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;[Attach / Detach Unicorn Sticky Electrodes](#attach--detach-unicorn-sticky-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;[Attach / Detach Unicorn Brain Interface on the cap](#attach--detach-unicorn-brain-interface-on-the-cap)<br/>
 
 [Charging the Unicorn Brain Interface](#charging-the-unicorn-brain-interface)<br/>
 
 [Safety Operation](#safety-operation)<br/>
 
 [Setup the Unicorn Brain Interface to record data](#setup-the-unicorn-brain-interface-to-record-data)<br/>
-    - [Put the Unicorn Brain Interface on the subject's head](#put-the-unicorn-brain-interface-on-the-subjects-head)<br/>
-    - [Prepare the Unicorn Hybrid EEG electrodes](#prepare-the-unicorn-hybrid-eeg-electrodes)<br/>
-    - [Avoid electrode and cable movements](#avoid-electrode-and-cable-movements)<br/>
-    - [Avoid Electrostatic Charges](#avoid-electrostatic-charges)<br/>
-    - [Grounding](#grounding)<br/>
-    - [Switch off](#switch-off)<br/>
-    - [Cleaning](#cleaning)<br/>
-    - [Packing and storage](#packing-and-storage)<br/>
+&nbsp;&nbsp;&nbsp;[Put the Unicorn Brain Interface on the subject's head](#put-the-unicorn-brain-interface-on-the-subjects-head)<br/>
+&nbsp;&nbsp;&nbsp;[Prepare the Unicorn Hybrid EEG electrodes](#prepare-the-unicorn-hybrid-eeg-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;[Avoid electrode and cable movements](#avoid-electrode-and-cable-movements)<br/>
+&nbsp;&nbsp;&nbsp;[Avoid Electrostatic Charges](#avoid-electrostatic-charges)<br/>
+&nbsp;&nbsp;&nbsp;[Grounding](#grounding)<br/>
+&nbsp;&nbsp;&nbsp;[Switch off](#switch-off)<br/>
+&nbsp;&nbsp;&nbsp;[Cleaning](#cleaning)<br/>
+&nbsp;&nbsp;&nbsp;[Packing and storage](#packing-and-storage)<br/>
 
 [Cleaning the Unicorn Brain Interface](#cleaning-the-unicorn-brain-interface)<br/>
-    - [Cleaning the Unicorn Brain Interface and Unicorn Hybrid EEG electrode cables](#cleaning-the-unicorn-brain-interface-and-unicorn-hybrid-eeg-electrode-cables)<br/>
-    - [Cleaning the Unicorn cap and Unicorn Hybrid EEG electrodes](#cleaning-the-unicorn-cap-and-unicorn-hybrid-eeg-electrodes)<br/>
-    - [Drying Unicorn caps and Unicorn Hybrid EEG electrodes](#drying-unicorn-caps-and-unicorn-hybrid-eeg-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;[Cleaning the Unicorn Brain Interface and Unicorn Hybrid EEG electrode cables](#cleaning-the-unicorn-brain-interface-and-unicorn-hybrid-eeg-electrode-cables)<br/>
+&nbsp;&nbsp;&nbsp;[Cleaning the Unicorn cap and Unicorn Hybrid EEG electrodes](#cleaning-the-unicorn-cap-and-unicorn-hybrid-eeg-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;[Drying Unicorn caps and Unicorn Hybrid EEG electrodes](#drying-unicorn-caps-and-unicorn-hybrid-eeg-electrodes)<br/>
+
+[Unicorn Brain Interface Packaging](#unicorn-brain-interface-packaging)
+<br/>
+<br/>
+
+## Unicorn Brain Interface Hybrid Black
 
 <p align="center">
 <table>
@@ -75,12 +81,11 @@
 </p>
 
 <p align="center">
-<img src="../img/unicorn.png" alt="drawing" width="500"/><br/>
+<img src="img/unicorn.png" alt="drawing" width="500"/><br/>
 </p>
 
-## Unicorn Brain Interface Hybrid Black
 <p align="center">
-<img src="../img/unicornImage2.png" alt="drawing" width="700"/><br/>
+<img src="img/unicornImage2.png" alt="drawing" width="700"/><br/>
 </p>
 
 ### Status LED
@@ -160,39 +165,39 @@ For reassembly, just bring the Unicorn Brain Interface in the vicinity of the do
         <th><span style="font-size: larger;">Description</span></th>
     </tr>
     <tr>
-        <td><img src="../img/icon1.png" alt="drawing" width="50"/></td>
+        <td><img src="img/icon1.png" alt="drawing" width="50"/></td>
         <td>CE mark</td>
     </tr>
     <tr>
-        <td><img src="../img/icon2.png" alt="drawing" width="50"/></td>
+        <td><img src="img/icon2.png" alt="drawing" width="50"/></td>
         <td>Do not dispose with domestic waste. Dispose of it via the separate collection system for electrical and electronic equipment.</td>
     </tr>
     <tr>
-        <td><img src="../img/icon3.png" alt="drawing" width="50"/></td>
+        <td><img src="img/icon3.png" alt="drawing" width="50"/></td>
         <td>Avoid electrostatic discharge</td>
     </tr>
     <tr>
-        <td><img src="../img/icon4.png" alt="drawing" width="50"/></td>
+        <td><img src="img/icon4.png" alt="drawing" width="50"/></td>
         <td>Follow instructions for use</td>
     </tr>
     <tr>
-        <td><img src="../img/icon5.png" alt="drawing" width="50"/></td>
+        <td><img src="img/icon5.png" alt="drawing" width="50"/></td>
         <td>Manufacturer</td>
     </tr>
     <tr>
-        <td><img src="../img/icon6.png" alt="drawing" width="50"/></td>
+        <td><img src="img/icon6.png" alt="drawing" width="50"/></td>
         <td>S1: permanent operation</td>
     </tr>
     <tr>
-        <td><img src="../img/icon7.png" alt="drawing" width="200"/></td>
+        <td><img src="img/icon7.png" alt="drawing" width="200"/></td>
         <td>Serial number in the format: UN-YearOfProduction.Month.Number</td>
     </tr>
     <tr>
-        <td><img src="../img/icon8.png" alt="drawing" width="200"/></td>
+        <td><img src="img/icon8.png" alt="drawing" width="200"/></td>
         <td>Contains FCC ID: QOQWT12</td>
     </tr>
     <tr>
-        <td><img src="../img/icon9.png" alt="drawing" width="250"/></td>
+        <td><img src="img/icon9.png" alt="drawing" width="250"/></td>
         <td>Contains IC: 5123A-BGTWT12A</td>
     </tr>
 </table>
@@ -202,7 +207,7 @@ For reassembly, just bring the Unicorn Brain Interface in the vicinity of the do
 The Unicorn Hybrid EEG Electrodes are made of a conductive rubber that allow their operation as dry or wet Unicorn Hybrid EEG Electrodes.
 
 <p align="center">
-<img src="../img/img1.png" alt="drawing" width="700"/><br/>
+<img src="img/img1.png" alt="drawing" width="700"/><br/>
 </p>
 
 Dry Unicorn Hybrid EEG Electrodes have the advantage of fast and easy preparation, but sometimes suffer from poor signal quality. If you encounter poor signal quality, the Unicorn Hybrid EEG Electrode can be used with special Unicorn Gel to reach the performance of a wet electrode.
@@ -215,33 +220,33 @@ The Unicorn Brain Interface is delivered disassembled. The system must be assemb
 ### Insert / Remove Unicorn Hybrid EEG Electrodes
 The Unicorn cap features eight holes for holding eight Unicorn Hybrid EEG Electrodes. The first groove of the electrode is used to attach the electrode connector clip. The second groove is provided to insert and hold the electrode within a Unicorn cap. Stretch one of the predefined electrode holes of the Unicorn cap and insert the electrode until the second groove of the electrode is surrounded by fabric. Insert all eight Unicorn Hybrid EEG Electrodes into the predefined positions of the Unicorn cap.
 <p align="center">
-<img src="../img/img23.png" alt="drawing" width="250"/><br/>
+<img src="img/img23.png" alt="drawing" width="250"/><br/>
 </p>
 
 ### Connect / Disconnect Unicorn Hybrid EEG Electrodes
 The bottom of each clip connector has a number or letter with the correct position. Attach the clip connectors numbered 1-8 by sliding them onto the first notch of the corresponding mounted Unicorn Hybrid EEG Electrodes on the cap. The following pictures show the correct positions of the electrode clips on the cap. The predefined electrode positions of the cap are Fz, C3, Cz, C4, Pz, PO7, Oz and PO8 according to the 10/20 system. The positions marked as L (for left) and R (for right) are for the Unicorn Sticky Electrodes and will be described in the following chapter.
 
 <p align="center">
-<img src="../img/img3.png" alt="drawing" width="700"/><br/>
+<img src="img/img3.png" alt="drawing" width="700"/><br/>
 </p>
 
 To connect or disconnect the clip connector to/from the Unicorn Hybrid EEG Electrode, just slide the clip connector on or off. Make sure that the clip surrounds the first groove of the electrode and that the holes of the electrode and electrode clip overlap.
 
 <p align="center">
-<img src="../img/img4.png" alt="drawing" width="700"/><br/>
+<img src="img/img4.png" alt="drawing" width="700"/><br/>
 </p>
 
 ### Attach / Detach Unicorn Sticky Electrodes
 R and L electrode feature a clip connector to attach or detach disposable Unicorn Sticky Electrodes. Put a Unicorn Sticky Electrode on each of the mastoid bones behind your ears (L and R positions seen in the figure above). Click the L and R electrode clips onto the corresponding Unicorn Sticky Electrodes. Remove the disposable Unicorn Sticky Electrodes by pulling the R and L clip connectors until the electrode is detached from the clip connector.
 <p align="center">
-<img src="../img/img5.png" alt="drawing" width="700"/><br/>
+<img src="img/img5.png" alt="drawing" width="700"/><br/>
 </p>
 
 ### Attach / Detach Unicorn Brain Interface on the cap
 The Unicorn Brain Interface is attached to the Unicorn Cap by a magnetic docking station. To disassemble the Unicorn Brain Interface from the Unicorn cap, just lift it off the docking station. Be careful not to pull on the electrode leads. For reassembly, just bring the Unicorn Brain Interface in the vicinity of the docking 
 station and it will attach and center by itself. It is not possible to attach it upside down.
 <p align="center">
-<img src="../img/img6.png" alt="drawing" width="400"/><br/>
+<img src="img/img6.png" alt="drawing" width="400"/><br/>
 </p>
 
 ## Charging the Unicorn Brain Interface
@@ -325,11 +330,11 @@ The Unicorn Hybrid EEG Electrodes are attached to the Unicorn Cap. Before attach
 After putting on and positioning the Unicorn Cap, each Unicorn Hybrid EEG Electrode needs to be twisted clockwise and counterclockwise a few times with slight pressure on the skin. Just grab the Unicorn Hybrid EEG Electrodes with two fingers from outside the Unicorn Cap to do so. This allows the pins to go through 
 the hair and get in good contact with the skin
 <p align="center">
-<img src="../img/img7.png" alt="drawing" width="250"/><br/>
+<img src="img/img7.png" alt="drawing" width="250"/><br/>
 </p>
 After preparation of all Unicorn Hybrid EEG Electrodes, it might take 2-3 minutes until all channels display stable signals. If some Unicorn Hybrid EEG Electrodes do not show stable signals after a few minutes, you may need to repeat the twisting and/or check the environment and the correct pressure of all Unicorn Hybrid EEG Electrodes on the skin. To see clear EEG signals, it is recommended to use a bandpass filter (0.5 – 30 Hz or 2 – 30 Hz) and a 50/60 Hz notch filter.
 <p align="center">
-<img src="../img/img9.png" alt="drawing" width="400"/><br/>
+<img src="img/img9.png" alt="drawing" width="400"/><br/>
 </p>
 
 **Note:**<br>
@@ -352,7 +357,7 @@ EEG recordings in general are quite sensitive to a number of disturbing influenc
 - The subject as well as the operator(s) may be grounded to avoid electrostatic charges (e.g. using an antistatic wrist band connected to the lab ground).
 
 <p align="center">
-<img src="../img/img10.png" alt="drawing" width="700"/><br/>
+<img src="img/img10.png" alt="drawing" width="700"/><br/>
 </p>
 
 ### Switch off
@@ -425,3 +430,11 @@ Follow these rules to keep the Unicorn Cap in good condition for a long time:
 
 **Note:**<br>
 The Unicorn Caps may bleach out a bit after frequent cleaning and disinfection. As long as the fabric remains elastic and the signs on the Unicorn cap are readable, replacement is not necessary. However, Unicorn Caps and Unicorn Hybrid EEG Electrodes are consumables and need to be replaced from time to time. Careful treatment and cleaning will prolong the life-time of your Unicorn Caps and Unicorn Hybrid EEG Electrodes significantly.
+
+# Unicorn Brain Interface Packaging
+<p align="center">
+<img src="../img/img13.png" alt="drawing" width="700"/><br/>
+</p>
+<p align="center">
+<img src="../img/img14.png" alt="drawing" width="700"/><br/>
+</p>
