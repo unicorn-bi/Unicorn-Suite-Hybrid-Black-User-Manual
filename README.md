@@ -9,19 +9,19 @@
 &nbsp;&nbsp;&nbsp;[Intended use](#intended-use)<br/>
 &nbsp;&nbsp;&nbsp;[Conditions of use](#conditions-of-use)<br/>
 
+[Software System Requirements](/Installation/softwareRequirements.md)<br/>
+[Installation](/Installation/installation.md)<br/>
+[Software Prerequisites](/Installation/softPrerequisites.md)<br/>
+
+### Amplifier
+
 [Technical Specifications](TechnicalSpecifications.md)<br/>
-[Unicorn Brain Interface Packaging](/Introduction/unicornBrainInterfacePackaging.md)<br/>
 [Unicorn Hybrid Black](UnicornHybridBlack.md)<br/>
 [Unicorn Naked BCI](UnicornNaked.md)<br/>
-
 
 [Electromagnetic compatibility EMC](#electromagnetic-compatibility-emc)<br/>
 [Declaration of conformity](#declaration-of-conformity)<br/>
 [General notes](/Introduction/generalNotes.md)<br/>
-
-[Software System Requirements](/Installation/softwareRequirements.md)<br/>
-[Installation](/Installation/installation.md)<br/>
-[Software Prerequisites](/Installation/softPrerequisites.md)<br/>
 
 ### Programming Interfaces
 
