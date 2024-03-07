@@ -428,7 +428,7 @@ The Unicorn Brain Interface uses the 2.4 GHz band for wireless transmission. Ens
 The Unicorn Brain Interface can be stored at temperatures between –20° to +45° Celsius. The relative humidity must be between 25 % and 80 %. If there is any condensed water, wait until it disappears before use (wait at least 1 h in a heated room).
 
 ## Location details
-Do not use the Unicorn Brain Interface near a heating system or directly in the sun. During operation, the outside temperature should be between +5 Celsius and +35 Celsius and the air pressure between 700 and 1060 hPa.
+Do not use the Unicorn Brain Interface near a heating system or directly in the sun. During operation, the outside temperature should be between +5° Celsius and +35° Celsius and the air pressure between 700 and 1060 hPa.
 
 ## Wast disposal details
 Bring the Unicorn Brain Interface to a recycling center or sent it back to the manufacturer.
