@@ -52,8 +52,8 @@
 [Unicorn Blondy Check](https://github.com/unicorn-bi/Unicorn-Blondy-Check-Hybrid-Black)<br/>
 [Unicorn Speller](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
 [Unicorn Painting](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
-Brainbuddy<br/>
-Platformer<br/>
+[Brainbuddy](https://github.com/unicorn-bi/Unicorn-Games-Hybrid-Black)<br/>
+[Platformer](https://github.com/unicorn-bi/Unicorn-Games-Hybrid-Black)<br/>
 
 ## Glossary
 
