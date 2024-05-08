@@ -51,7 +51,7 @@
 [Unicorn Bandpower](https://github.com/unicorn-bi/Unicorn-Bandpower-Hybrid-Black)<br/>
 [Unicorn Blondy Check](https://github.com/unicorn-bi/Unicorn-Blondy-Check-Hybrid-Black)<br/>
 [Unicorn Speller](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
-Unicorn Painting<br/>
+[Unicorn Painting](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
 Brainbuddy<br/>
 Platformer<br/>
 
