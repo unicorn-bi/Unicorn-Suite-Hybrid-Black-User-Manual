@@ -46,6 +46,8 @@
 &nbsp;&nbsp;&nbsp;[Unicorn LSL](https://github.com/unicorn-bi/Unicorn-Network-Interfaces-Hybrid-Black/tree/main/LSL)<br/>
 &nbsp;&nbsp;&nbsp;[Unicorn UDP](https://github.com/unicorn-bi/Unicorn-Network-Interfaces-Hybrid-Black/tree/main/UDP)<br/>
 
+[Unicorn Unity Interface](https://github.com/unicorn-bi/Unicorn-Hybrid-Black-Unity-Interface)<br/>
+
 ### Applications
 [Unicorn Recorder](https://github.com/unicorn-bi/Unicorn-Recorder-Hybrid-Black)<br/>
 [Unicorn Bandpower](https://github.com/unicorn-bi/Unicorn-Bandpower-Hybrid-Black)<br/>
