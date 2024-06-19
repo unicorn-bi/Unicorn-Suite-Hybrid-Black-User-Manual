@@ -56,6 +56,7 @@
 [Unicorn Painting](https://github.com/unicorn-bi/Unicorn-Speller-Hybrid-Black)<br/>
 [Brainbuddy](https://github.com/unicorn-bi/Unicorn-Games-Hybrid-Black)<br/>
 [Platformer](https://github.com/unicorn-bi/Unicorn-Games-Hybrid-Black)<br/>
+[Puzzle Game](https://github.com/unicorn-bi/Unicorn-Games-Hybrid-Black)<br/>
 
 ## Glossary
 
