@@ -146,8 +146,6 @@ The Apps tab features available standalone applications for the Unicorn Brain In
 <img src="img/upgrade5.png" alt="drawing" width="500"/><br/>
 </p>
 
-## Updating apps
-
 # Development Tools
 
 The DevTools tab features application programming interfaces (API) for the Unicorn. Free APIs can be opened directly by clicking the “Open” button. The API library folder will be opened automatically. Licensed APIs require a license to be unlocked. Follow section [Licensing](#licensing) to get more information about the licensing system. 
