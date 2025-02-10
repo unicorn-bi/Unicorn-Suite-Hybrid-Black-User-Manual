@@ -185,10 +185,6 @@ Click “Add license” to activate a license key. Use “Product Id”, “Lice
 If the license server is reachable, licenses are refreshed whenever the Unicorn Suite is started. Applications and development tools can also be used offline if the license was refreshed within one week. Afterwards, an online license refresh is required. The License expiration date determines the expiration date of the license for a specific product. 
 
 <p align="center">
-<img src="img/license2.png" alt="drawing" width="500"/><br/>
-</p>
-
-<p align="center">
 <img src="img/license3.png" alt="drawing" width="500"/><br/>
 </p>
 
@@ -201,6 +197,10 @@ To deactivate a license, select the product to deactivate from the installed lic
 ## Lost License
 
 You can resend the license key email using the '[Lost License Tool](https://www.gtec.at/lost-license/)' if you've lost you'r license key email.
+
+<p align="center">
+<img src="img/license2.png" alt="drawing" width="500"/><br/>
+</p>
 
 # My Unicorn
 
