@@ -9,10 +9,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Switch Bluetooth Dongle](#switch-bluetooth-dongle)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Disable Bluetooth Power Adaptor](#disable-bluetooth-power-saving-mode)<br/>
 &nbsp;&nbsp;&nbsp;[Optimize the Power Plan](#optimize-the-power-plan)<br/>
-[Apps](#apps)
-[Development Tools](#development-tools)
-[Licensing](#licensing)
-&nbsp;&nbsp;&nbsp;[Lost License](#lost-license)
+[Apps](#apps)<br/>
+[Development Tools](#development-tools)<br/>
+[Licensing](#licensing)<br/>
+&nbsp;&nbsp;&nbsp;[Lost License](#lost-license)<br/>
 [Upgrade from Unicorn Suite Hybrid Black 1.18.00 to Unicorn Suite Hybrid Black 1.24.00](#upgrade-from-unicorn-suite-hybrid-black-11800-to-unicorn-suite-hybrid-black-12400)
 
 # Software System Requirements
