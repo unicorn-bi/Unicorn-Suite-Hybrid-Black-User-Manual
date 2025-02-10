@@ -247,4 +247,4 @@ License keys should not be affected by the upgrade process. They remain on the s
 
 4. Open Unicorn Suite Hybrid Black
 
-5. Download and install apps as described in section [Installing apps](#installing-apps)
+5. Download and install apps as described in section '[Installing apps](#installing-apps)' and '[Installing development tools](#installing-development-tools)'.
