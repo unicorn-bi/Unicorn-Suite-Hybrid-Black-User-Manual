@@ -120,7 +120,12 @@ To ensure that the computer does not go to sleep or hibernate while acquiring da
 
 # Upgrade from Unicorn Suite Hybrid Black 1.18.00 to Unicorn Suite Hybrid Black 1.24.00
 
+
+
 1. Remove Unicorn Suite using the standard uninstall process of Windows accessed via the Control Panel.
+
+**Note:**
+License keys should not be affected by the upgrade process. They remain on the system. It is not required to deactivate them before upgrading 'Unicorn Suite Hybrid Black'.
 
 <p align="center">
 <img src="img/upgrade2.png" alt="drawing" width="700"/><br/>
@@ -128,7 +133,7 @@ To ensure that the computer does not go to sleep or hibernate while acquiring da
 
 2. Download the latest Unicorn Suite Hybrid Black release from: https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black-User-Manual/releases 
 
-3. Install Unicorn Suite Hybrid Black as described in the [Installation](#installation) section.
+3. Install Unicorn Suite Hybrid Black as described in the '[Installation](#installation)' section.
 
 4. Open Unicorn Suite Hybrid Black
 
