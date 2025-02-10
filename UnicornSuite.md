@@ -129,7 +129,7 @@ License keys should not be affected by the upgrade process. They remain on the s
 <img src="img/upgrade2.png" alt="drawing" width="700"/><br/>
 </p>
 
-2. Download the latest Unicorn Suite Hybrid Black release from: https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black-User-Manual/releases 
+2. Download the latest Unicorn Suite Hybrid Black release from '[Unicorn Suite Hybrid Black - Releases](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black-User-Manual/releases)
 
 3. Install Unicorn Suite Hybrid Black as described in the '[Installation](#installation)' section.
 
