@@ -51,7 +51,7 @@ Minimum software requirements to run the Unicorn Suite.
     </tr>
     <tr>
         <td>Operating System</td>
-        <td>Windows 10 Pro <br/> English<br/>64-bit</td>
+        <td>Windows 11 Pro <br/> English<br/>64-bit</td>
     </tr>
     <tr>
         <td>PDF Reader</td>
